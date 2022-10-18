@@ -28,6 +28,9 @@ public class JSONConverter {
 			+ "\"email\": \"example@gmail.com\"\r\n"
 			+ "}";
 
+	/** This method changes the nested JSON object to plain JSON object
+	 * 
+	 */
 	public void convertNestedToPlainJSON() {
 		JSONObject jsonObject = JSON.parseObject(jsonRequest);
 		Map<String, Object> map = (Map<String, Object>) jsonObject.get("address");
