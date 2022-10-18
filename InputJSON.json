@@ -1,21 +1,17 @@
 {
-"record":
+"address":
     {
-    "CUACCC": " ",
-    "CUACCR": " ",
-    "CUACPC": " ",
-    "CUADR1": "86 BEDFORD ST ",
-    "CUADR2": " ",
-    "CUADR3": " ",
-    "CUADR4": " ",
-    "CUAGC": "TRDAG",
-    "CUAICD": "1",
-    "CUALIA": " ",
-    "RRN_FIELD_DATA": 92435.0
+    "addressLine1": "24",
+    "addressLine2": "AMBEDKAR ROAD ",
+    "addressLine3": " ",
+    "city": "GHAZIABAD",
+    "state": "UP",
+    "zipCode": "201014",
+    "country": "INDIA"
     },
-"sv_file_member": "ARPCU",
-"sv_job_name": "RBLP020150",
-"sv_job_number": "464307",
-"sv_journal_seqno": "00000000000104898535",
-"sv_manip_type": "U"
+"firstName": "Ajay",
+"middleName": "Kumar",
+"lastName": "Sharma",
+"designation": "Senior Application Developer",
+"email": "example@gmail.com"
 }
